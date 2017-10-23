@@ -3,7 +3,7 @@ class HouseRober {
   * Given a list of non-negative integers representing the amount of money of
   * each house, determine the maximum amount of money you can rob tonight
   * without alerting the police.
-  * input: integer array
+  * param: int[] nums
   * output: maximum amount of money
   */
   public int rob(int[] nums) {
