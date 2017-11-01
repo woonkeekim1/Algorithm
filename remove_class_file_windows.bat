@@ -1,1 +1,1 @@
-find . -type f -name '*.class' -delete
+del /S *.class
